@@ -6,7 +6,7 @@
 
 ## Deployed Frontend: https://legash-ob55.onrender.com
 ## Deployed Backend: https://backend-3avt.onrender.com
-## Mobile: https://github.com/Legash-Team/Mobile/releases/download/v1.0.0/app-release.apk (on mobile phone)
+## Mobile app: https://github.com/Legash-Team/Mobile/releases/download/v1.0.0/app-release.apk (on mobile phone)
 
 # Legash — Smart Blood Donation Management System
 
